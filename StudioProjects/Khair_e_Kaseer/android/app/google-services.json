@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "101376379788",
+    "firebase_url": "https://khair-e-kaseer-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "khair-e-kaseer",
+    "storage_bucket": "khair-e-kaseer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101376379788:android:cb7079fc1b62b1a5d124a9",
+        "android_client_info": {
+          "package_name": "com.example.khair_e_kaseer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg1OFY273eAlUnEXB-FKTjdN6G4YUakfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
